@@ -13,4 +13,4 @@ const ventas = [
     {id: 12, cliente: "C08", producto: "Origen Nariño 250 g", ciudad: "Bogotá", cantidad: 3, precio: 26000},
 ];
 
-module.exports = ventas;
+module.exports = {ventas} ;
